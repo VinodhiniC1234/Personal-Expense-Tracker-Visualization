@@ -1,0 +1,181 @@
+Date,Category,Amount,Payment_Method,Description
+2026-01-01,Healthcare,1670,Credit Card,Expense Record 1
+2026-01-02,Entertainment,5927,Cash,Expense Record 2
+2026-01-03,Entertainment,1166,Debit Card,Expense Record 3
+2026-01-04,Healthcare,5091,Debit Card,Expense Record 4
+2026-01-05,Bills,4869,Credit Card,Expense Record 5
+2026-01-06,Food,3006,UPI,Expense Record 6
+2026-01-07,Food,5713,Debit Card,Expense Record 7
+2026-01-08,Food,696,Debit Card,Expense Record 8
+2026-01-09,Food,5601,Debit Card,Expense Record 9
+2026-01-10,Food,408,Cash,Expense Record 10
+2026-01-11,Food,1301,Debit Card,Expense Record 11
+2026-01-12,Shopping,2484,UPI,Expense Record 12
+2026-01-13,Entertainment,373,Debit Card,Expense Record 13
+2026-01-14,Education,762,Debit Card,Expense Record 14
+2026-01-15,Shopping,5399,Debit Card,Expense Record 15
+2026-01-16,Entertainment,1734,UPI,Expense Record 16
+2026-01-17,Education,1901,Cash,Expense Record 17
+2026-01-18,Bills,4091,UPI,Expense Record 18
+2026-01-19,Shopping,4588,Credit Card,Expense Record 19
+2026-01-20,Healthcare,1562,Credit Card,Expense Record 20
+2026-01-21,Food,814,Cash,Expense Record 21
+2026-01-22,Transport,4380,Debit Card,Expense Record 22
+2026-01-23,Shopping,1600,Credit Card,Expense Record 23
+2026-01-24,Entertainment,2519,Credit Card,Expense Record 24
+2026-01-25,Entertainment,3487,Debit Card,Expense Record 25
+2026-01-26,Education,2365,UPI,Expense Record 26
+2026-01-27,Transport,1435,UPI,Expense Record 27
+2026-01-28,Bills,531,Debit Card,Expense Record 28
+2026-01-29,Food,5050,UPI,Expense Record 29
+2026-01-30,Transport,404,Credit Card,Expense Record 30
+2026-01-31,Shopping,3042,UPI,Expense Record 31
+2026-02-01,Education,3918,Cash,Expense Record 32
+2026-02-02,Transport,1844,UPI,Expense Record 33
+2026-02-03,Transport,750,Debit Card,Expense Record 34
+2026-02-04,Transport,5071,Credit Card,Expense Record 35
+2026-02-05,Bills,4292,Debit Card,Expense Record 36
+2026-02-06,Entertainment,485,Cash,Expense Record 37
+2026-02-07,Food,2729,Cash,Expense Record 38
+2026-02-08,Bills,1325,Debit Card,Expense Record 39
+2026-02-09,Entertainment,1692,Credit Card,Expense Record 40
+2026-02-10,Bills,1409,UPI,Expense Record 41
+2026-02-11,Shopping,3004,Credit Card,Expense Record 42
+2026-02-12,Entertainment,3411,UPI,Expense Record 43
+2026-02-13,Entertainment,5346,Debit Card,Expense Record 44
+2026-02-14,Food,2805,Debit Card,Expense Record 45
+2026-02-15,Healthcare,203,Debit Card,Expense Record 46
+2026-02-16,Entertainment,1775,Debit Card,Expense Record 47
+2026-02-17,Transport,3783,Cash,Expense Record 48
+2026-02-18,Transport,2082,Credit Card,Expense Record 49
+2026-02-19,Healthcare,1663,Debit Card,Expense Record 50
+2026-02-20,Healthcare,5550,Debit Card,Expense Record 51
+2026-02-21,Shopping,4167,UPI,Expense Record 52
+2026-02-22,Transport,2019,Credit Card,Expense Record 53
+2026-02-23,Bills,3979,Credit Card,Expense Record 54
+2026-02-24,Healthcare,5097,UPI,Expense Record 55
+2026-02-25,Entertainment,5009,UPI,Expense Record 56
+2026-02-26,Entertainment,1325,UPI,Expense Record 57
+2026-02-27,Entertainment,3014,Credit Card,Expense Record 58
+2026-02-28,Healthcare,3360,Debit Card,Expense Record 59
+2026-03-01,Education,270,Credit Card,Expense Record 60
+2026-03-02,Healthcare,1799,UPI,Expense Record 61
+2026-03-03,Bills,5829,Debit Card,Expense Record 62
+2026-03-04,Entertainment,2185,UPI,Expense Record 63
+2026-03-05,Transport,4459,Credit Card,Expense Record 64
+2026-03-06,Healthcare,1554,Debit Card,Expense Record 65
+2026-03-07,Education,2099,Debit Card,Expense Record 66
+2026-03-08,Education,1673,Cash,Expense Record 67
+2026-03-09,Entertainment,2383,Debit Card,Expense Record 68
+2026-03-10,Food,329,Cash,Expense Record 69
+2026-03-11,Transport,1710,Credit Card,Expense Record 70
+2026-03-12,Shopping,646,Credit Card,Expense Record 71
+2026-03-13,Healthcare,3778,Cash,Expense Record 72
+2026-03-14,Entertainment,2361,Debit Card,Expense Record 73
+2026-03-15,Education,4954,Credit Card,Expense Record 74
+2026-03-16,Food,2239,Debit Card,Expense Record 75
+2026-03-17,Education,4391,UPI,Expense Record 76
+2026-03-18,Bills,3596,Credit Card,Expense Record 77
+2026-03-19,Entertainment,3807,Cash,Expense Record 78
+2026-03-20,Food,5961,UPI,Expense Record 79
+2026-03-21,Healthcare,2674,UPI,Expense Record 80
+2026-03-22,Shopping,1806,Debit Card,Expense Record 81
+2026-03-23,Transport,5742,Credit Card,Expense Record 82
+2026-03-24,Transport,1237,Cash,Expense Record 83
+2026-03-25,Food,2722,UPI,Expense Record 84
+2026-03-26,Entertainment,3488,Cash,Expense Record 85
+2026-03-27,Healthcare,5076,UPI,Expense Record 86
+2026-03-28,Education,2076,Debit Card,Expense Record 87
+2026-03-29,Food,5005,UPI,Expense Record 88
+2026-03-30,Bills,5541,Cash,Expense Record 89
+2026-03-31,Food,1830,Credit Card,Expense Record 90
+2026-04-01,Shopping,554,UPI,Expense Record 91
+2026-04-02,Education,2501,Cash,Expense Record 92
+2026-04-03,Food,4829,Debit Card,Expense Record 93
+2026-04-04,Transport,4583,Debit Card,Expense Record 94
+2026-04-05,Bills,816,Cash,Expense Record 95
+2026-04-06,Food,3506,Cash,Expense Record 96
+2026-04-07,Bills,4050,Cash,Expense Record 97
+2026-04-08,Education,4088,Cash,Expense Record 98
+2026-04-09,Entertainment,803,UPI,Expense Record 99
+2026-04-10,Entertainment,2400,Debit Card,Expense Record 100
+2026-04-11,Transport,5860,Credit Card,Expense Record 101
+2026-04-12,Bills,3654,Credit Card,Expense Record 102
+2026-04-13,Education,1387,UPI,Expense Record 103
+2026-04-14,Food,1066,Credit Card,Expense Record 104
+2026-04-15,Bills,200,Credit Card,Expense Record 105
+2026-04-16,Education,3750,Credit Card,Expense Record 106
+2026-04-17,Shopping,933,Cash,Expense Record 107
+2026-04-18,Entertainment,4751,Debit Card,Expense Record 108
+2026-04-19,Food,1331,Cash,Expense Record 109
+2026-04-20,Healthcare,4275,Credit Card,Expense Record 110
+2026-04-21,Bills,5250,UPI,Expense Record 111
+2026-04-22,Education,3451,Credit Card,Expense Record 112
+2026-04-23,Bills,5797,Debit Card,Expense Record 113
+2026-04-24,Shopping,2612,Cash,Expense Record 114
+2026-04-25,Entertainment,310,UPI,Expense Record 115
+2026-04-26,Education,2409,UPI,Expense Record 116
+2026-04-27,Food,2699,Credit Card,Expense Record 117
+2026-04-28,Entertainment,5435,Credit Card,Expense Record 118
+2026-04-29,Bills,3428,UPI,Expense Record 119
+2026-04-30,Education,5925,UPI,Expense Record 120
+2026-05-01,Food,4416,UPI,Expense Record 121
+2026-05-02,Transport,5521,UPI,Expense Record 122
+2026-05-03,Entertainment,3068,UPI,Expense Record 123
+2026-05-04,Entertainment,1809,Debit Card,Expense Record 124
+2026-05-05,Food,3752,UPI,Expense Record 125
+2026-05-06,Bills,3460,Debit Card,Expense Record 126
+2026-05-07,Food,1688,UPI,Expense Record 127
+2026-05-08,Shopping,2675,UPI,Expense Record 128
+2026-05-09,Transport,2245,UPI,Expense Record 129
+2026-05-10,Healthcare,3034,Credit Card,Expense Record 130
+2026-05-11,Food,3436,UPI,Expense Record 131
+2026-05-12,Bills,3486,Debit Card,Expense Record 132
+2026-05-13,Food,1231,Cash,Expense Record 133
+2026-05-14,Shopping,5664,UPI,Expense Record 134
+2026-05-15,Bills,5137,Cash,Expense Record 135
+2026-05-16,Education,3466,UPI,Expense Record 136
+2026-05-17,Bills,5228,Cash,Expense Record 137
+2026-05-18,Transport,2645,Cash,Expense Record 138
+2026-05-19,Healthcare,736,Credit Card,Expense Record 139
+2026-05-20,Healthcare,286,Cash,Expense Record 140
+2026-05-21,Bills,595,Debit Card,Expense Record 141
+2026-05-22,Bills,1632,Cash,Expense Record 142
+2026-05-23,Education,1748,Credit Card,Expense Record 143
+2026-05-24,Healthcare,4121,Cash,Expense Record 144
+2026-05-25,Entertainment,491,Cash,Expense Record 145
+2026-05-26,Entertainment,2455,Credit Card,Expense Record 146
+2026-05-27,Transport,1205,Cash,Expense Record 147
+2026-05-28,Entertainment,252,Debit Card,Expense Record 148
+2026-05-29,Transport,4389,Cash,Expense Record 149
+2026-05-30,Healthcare,4588,UPI,Expense Record 150
+2026-05-31,Transport,4398,Cash,Expense Record 151
+2026-06-01,Bills,5355,Debit Card,Expense Record 152
+2026-06-02,Food,2347,Credit Card,Expense Record 153
+2026-06-03,Education,5988,Credit Card,Expense Record 154
+2026-06-04,Bills,3580,Cash,Expense Record 155
+2026-06-05,Education,3500,Cash,Expense Record 156
+2026-06-06,Transport,4726,UPI,Expense Record 157
+2026-06-07,Bills,4493,UPI,Expense Record 158
+2026-06-08,Healthcare,4550,Cash,Expense Record 159
+2026-06-09,Entertainment,1888,UPI,Expense Record 160
+2026-06-10,Entertainment,3695,Debit Card,Expense Record 161
+2026-06-11,Education,4628,UPI,Expense Record 162
+2026-06-12,Education,2665,UPI,Expense Record 163
+2026-06-13,Shopping,2746,Debit Card,Expense Record 164
+2026-06-14,Healthcare,3261,Cash,Expense Record 165
+2026-06-15,Shopping,2842,Cash,Expense Record 166
+2026-06-16,Education,5605,UPI,Expense Record 167
+2026-06-17,Food,3855,Debit Card,Expense Record 168
+2026-06-18,Transport,666,Cash,Expense Record 169
+2026-06-19,Healthcare,5598,Debit Card,Expense Record 170
+2026-06-20,Shopping,2891,UPI,Expense Record 171
+2026-06-21,Food,4434,Credit Card,Expense Record 172
+2026-06-22,Healthcare,5677,UPI,Expense Record 173
+2026-06-23,Education,5432,Credit Card,Expense Record 174
+2026-06-24,Education,1701,Debit Card,Expense Record 175
+2026-06-25,Bills,5117,Cash,Expense Record 176
+2026-06-26,Shopping,881,UPI,Expense Record 177
+2026-06-27,Food,1508,Credit Card,Expense Record 178
+2026-06-28,Transport,1067,Cash,Expense Record 179
+2026-06-29,Healthcare,3085,Credit Card,Expense Record 180
