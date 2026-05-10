@@ -51,42 +51,38 @@ The project demonstrates:
 - Git & GitHub
 
 ---
+<h2>📁 Project Structure</h2>
 
-# 📂 Project Structure
-
-
-```text
+<pre>
 Personal-Expense-Tracker-Visualization/
 │
-├── data/
+├── data/                          # Expense dataset CSV files
 │   └── expense_data.csv
 │
-├── images/
+├── images/                        # Generated visualization charts
 │   ├── category_spending.png
 │   ├── monthly_trend.png
 │   ├── payment_method.png
 │   ├── daily_spending.png
 │   └── top_categories.png
 │
-├── reports/
+├── reports/                       # Generated financial reports
 │   ├── final_report.csv
 │   ├── category_report.csv
 │   └── monthly_report.csv
 │
-├── notebooks/
+├── src/                           # Source code modules
+│   ├── data_generator.py
+│   ├── data_cleaning.py
+│   ├── category_analysis.py
+│   ├── monthly_analysis.py
+│   ├── visualization.py
+│   └── report_generator.py
 │
-├── outputs/
-│
-├── docs/
-│
-├── src/
-│
-├── main.py
-├── requirements.txt
-├── .gitignore
-└── README.md
-```
-
+├── main.py                        # Main project execution file
+├── requirements.txt               # Project dependencies
+└── README.md                      # Project documentation
+</pre>
 ---
 
 # 🎯 Industry Relevance
