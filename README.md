@@ -53,26 +53,25 @@ The project demonstrates:
 ---
 ## 📁 Project Structure
 
-<pre>
-
+```text
 Personal-Expense-Tracker-Visualization/
 │
-├── data/                          
+├── data/
 │   └── expense_data.csv
 │
-├── images/                        
+├── images/
 │   ├── category_spending.png
 │   ├── monthly_trend.png
 │   ├── payment_method.png
 │   ├── daily_spending.png
 │   └── top_categories.png
 │
-├── reports/                       
+├── reports/
 │   ├── final_report.csv
 │   ├── category_report.csv
 │   └── monthly_report.csv
 │
-├── src/                           
+├── src/
 │   ├── data_generator.py
 │   ├── data_cleaning.py
 │   ├── category_analysis.py
@@ -80,11 +79,10 @@ Personal-Expense-Tracker-Visualization/
 │   ├── visualization.py
 │   └── report_generator.py
 │
-├── main.py                        
-├── requirements.txt               
-└── README.md                      
-
-</pre>
+├── main.py
+├── requirements.txt
+└── README.md
+```
 
 ---
 
