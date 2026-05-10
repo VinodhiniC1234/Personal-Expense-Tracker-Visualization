@@ -54,6 +54,7 @@ The project demonstrates:
 
 # 📂 Project Structure
 
+
 ```text
 Personal-Expense-Tracker-Visualization/
 │
@@ -72,15 +73,18 @@ Personal-Expense-Tracker-Visualization/
 │   ├── category_report.csv
 │   └── monthly_report.csv
 │
+├── notebooks/
+│
+├── outputs/
+│
+├── docs/
+│
+├── src/
+│
 ├── main.py
 ├── requirements.txt
 ├── .gitignore
 └── README.md
-```
-
----
-
-
 ```
 
 ---
